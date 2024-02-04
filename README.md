@@ -11,6 +11,8 @@ Coupons page:
 Searching for a coupon:
 ![image](https://github.com/ChetanSasidhar/UROP/assets/110301168/bbaeb66a-dd7e-4dc3-8da1-e2e1a441f68f)
 
+
+
 Request and Acceptance:
 ![image](https://github.com/ChetanSasidhar/UROP/assets/110301168/fe5bc151-9d26-45fd-87b1-2a835ec7d165)
 
